@@ -1,0 +1,3 @@
+"Model","Mean_AUC","SD_AUC","Mean_Accuracy"
+"Random Forest",1,0,0.980952380952381
+"SVM",1,0,0.971861471861472
